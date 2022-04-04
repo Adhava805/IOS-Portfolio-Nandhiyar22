@@ -5,4 +5,7 @@ Relearning how to code again for Xcode
 # New to Sketch
 Learning how to draw and add items
 
+# Making Music for team/personal app
+
+# Making assets for personal app
 
