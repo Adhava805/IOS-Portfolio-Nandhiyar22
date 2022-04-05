@@ -1,5 +1,5 @@
 # IOS-Portfolio-Nandhiyar22
-Hi My name is Adhava Nandhiyar and I am a junior at Eden Prairie High School. I have taken classes AP Computer Science and AP Java and now IOS so I believe I have some coding experience. I had trouble figuring what app I wanted to make during the entirety of third term so I was mostly doing coding tutorials this term instead of an actual personal app. I finally figured out what I want to do so I am just making assets for it and figuring out the proper code for it. I am also working on a team app which I am making music for but I can help the main coders with code.
+Hi My name is Adhava Nandhiyar and I am a junior at Eden Prairie High School. I have taken classes AP Computer Science and AP Java and now IOS so I believe I have some coding experience. I had trouble figuring what app I wanted to make during the entirety of third term so I was mostly doing coding tutorials this term instead of an actual personal app. I finally figured out what I want to do so I am just making assets for it and figuring out the proper code for it but I am also working on a team app.
 
 ### New to Xcode and Swift
 * Relearning how to code again for Xcode
