@@ -6,6 +6,10 @@ Hi My name is Adhava Nandhiyar and I am a junior at Eden Prairie High School. I 
 * Learned how to make proper ui
 * Learned what certain item can do in Xcode
 * Learned how to stack items in Xcode 
+* Watched many coding tutorials
+* Learning how to make items move
+* Learning how to zoom in on assets
+* Trying to find a way to make and ai move in a certain way and race
 * Started my personal app
 
 ### New to Sketch
