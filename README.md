@@ -29,7 +29,7 @@ Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP
 * making music
 * Can help code it
 
-### [Racing (Temporary Name)] https://github.com/Adhava805/Race
+### [Racing (Temporary Name)] (https://github.com/Adhava805/Race)
 * Personal app
 * Racing game with different modes
 
