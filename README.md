@@ -10,7 +10,7 @@ Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP
 * Learning how to make items move
 * Learning how to zoom in on assets
 * Started my personal app
-* Practiced lots of coding
+* Practice coding
 
 ### New to Sketch
 * Learning how to draw and add items
