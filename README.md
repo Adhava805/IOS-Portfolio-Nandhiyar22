@@ -30,6 +30,7 @@ Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP
 * Can help code it
 
 ### [Racing (Temporary Name)](https://github.com/Adhava805/Race)
+* This is my personal app with many racing modes like and infinite mode and time trial mode
 * Personal app
 * Racing game with different modes
 
@@ -38,6 +39,7 @@ Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP
 ![Prototype track](https://user-images.githubusercontent.com/79156134/162018596-6a080feb-7f8f-4aea-820c-fe6528794f7f.jpeg)
 
 ### [Clicker](https://github.com/Adhava805/clicker)
+* This is a basic app which I want to improve upon in the future and work harder on
 * Side Project
 * Improve upon it at random times
 * Try making new features
