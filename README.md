@@ -1,5 +1,5 @@
 # IOS-Portfolio-Nandhiyar22
-Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP Computer Science and AP Java and now IOS so I believe I have some coding experience. I had trouble figuring what app I wanted to make during the entirety of third term so I was mostly doing coding tutorials and improving asset making this term instead of an actual personal app. I finally figured out what I want to do so I am just making assets for it and figuring out the proper code for it but I am also working on a team app.
+Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP Computer Science and AP Java and now IOS so I believe I have some coding experience. I had trouble figuring what app I wanted to make during the entirety of third term so I was mostly doing coding tutorials and improving asset making this term instead of an actual personal app. I finally figured out what I want to do so I am just making assets for it and figuring out the proper code for it but I am also working on a team app;
 
 ### New to Xcode and Swift
 * Relearning how to code again for Xcode
@@ -11,15 +11,15 @@ Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP
 * Learning how to zoom in on assets
 * Started my personal app
 * Practice coding
+* Learned how to make enemies move
+* Learned how to use spritekit
+* Learned how to make image move
+* Learned new components of swift
 
 ### New to Sketch
 * Learning how to draw and add items
 * Trying to make assets for personal game
 * Learned how to make app icons
-
-### Making Music for team/personal app
-* Learning how to make music for app
-* Trying to make different types of music for group app
 
 ### Making assets for personal app
 * Made a car asset
@@ -27,13 +27,14 @@ Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP
 
 ### [Tower Defense](https://github.com/EPHS-iOS/Tower-Defense)
 * Group app
-* making music
-* Can help code it
+* I helped code with 2 other teammates
+* I made the shooter work from the castle and made the ememies move towards the class
 
 ### [Racing (Temporary Name)](https://github.com/Adhava805/Race)
 * This is my personal app with many racing modes like and infinite mode and time trial mode
 * Personal app
 * Racing game with different modes
+* I never got around to this during the term but i would like to try to make this during the summer
 
 ![Red Car #1 Large](https://user-images.githubusercontent.com/79156134/162018520-2d0e22b8-ecf9-4279-a3f6-ca6e194f1146.jpeg)
 
