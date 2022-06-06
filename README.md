@@ -4,7 +4,6 @@ Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP
 ### New to Xcode and Swift
 * Learned how to code on Xcode using [Code with chris tutorial](https://codewithchris.com/xcode-tutorial/)
 * Learned how to make proper ui and stack items using [War game tutorial](https://www.youtube.com/watch?v=lIxq4TCdlRU&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&index=13)
-* Learning how to zoom in on assets
 * Learned how to make enemies/images move using a [raywenderlich tutorial](https://www.raywenderlich.com/71-spritekit-tutorial-for-beginners#toc-anchor-003)
 * Learned how to use spritekit using the same [raywenderlich tutorial](https://www.raywenderlich.com/71-spritekit-tutorial-for-beginners#toc-anchor-003)
 * Learned how to make collisons using a the same [raywenderlich tutorial](https://www.raywenderlich.com/71-spritekit-tutorial-for-beginners#toc-anchor-003)
