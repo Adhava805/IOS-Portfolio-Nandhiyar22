@@ -16,15 +16,6 @@ Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP
 * Learned how to make image move
 * Learned new components of swift
 
-### New to Sketch
-* Learning how to draw and add items
-* Trying to make assets for personal game
-* Learned how to make app icons
-
-### Making assets for personal app
-* Made a car asset
-* Made a race track
-
 ### [Tower Defense](https://github.com/EPHS-iOS/Tower-Defense)
 * Group app
 * I helped code with 2 other teammates
@@ -46,3 +37,12 @@ Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP
 * Side Project
 * Improve upon it at random times
 * Try making new features
+
+### New to Sketch
+* Learning how to draw and add items
+* Trying to make assets for personal game
+* Learned how to make app icons
+
+### Making assets for personal app
+* Made a car asset
+* Made a race track
