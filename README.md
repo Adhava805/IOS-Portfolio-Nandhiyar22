@@ -2,16 +2,11 @@
 Hi My name is Adhava Nandhiyar and this is my portfolio. I have taken classes AP Computer Science and AP Java and now IOS so I believe I have some coding experience. I had trouble figuring what app I wanted to make during the entirety of third term so I was mostly doing coding tutorials and improving asset making this term instead of an actual personal app. I finally figured out what I want to do so I am just making assets for it and figuring out the proper code for it but I am also working on a team app;
 
 ### New to Xcode and Swift
-* L earned how to code on Xcode using [Code with chris tutorial](https://codewithchris.com/xcode-tutorial/)
+* Learned how to code on Xcode using [Code with chris tutorial](https://codewithchris.com/xcode-tutorial/)
 * Learned how to make proper ui and stack items using [War game tutorial](https://www.youtube.com/watch?v=lIxq4TCdlRU&list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI&index=13)
-* Learning how to make items move
 * Learning how to zoom in on assets
-* Started my personal app
-* Practice coding
-* Learned how to make enemies move
-* Learned how to use spritekit
-* Learned how to make image move
-* Learned new components of swift
+* Learned how to make enemies/images move using a [raywenderlich tutorial](https://www.raywenderlich.com/71-spritekit-tutorial-for-beginners#toc-anchor-003)
+* Learned how to use spritekit using the same [raywenderlich tutorial](https://www.raywenderlich.com/71-spritekit-tutorial-for-beginners#toc-anchor-003)
 
 ### [Tower Defense](https://github.com/EPHS-iOS/Tower-Defense)
 * Group app
